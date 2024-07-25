@@ -2,7 +2,7 @@
 //printing name 
 let i=20;
 do{
-    console.log("Apna College");
+    console.log("Hello");
     i++;
 }while(i<=10);
 
