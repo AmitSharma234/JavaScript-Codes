@@ -32,7 +32,7 @@ console.log(deal);
 
 
  const profile={
-     username:"shardha",
+     username:"shree",
      isfollow:false,
      follow:700,
      follwing:4
