@@ -8,6 +8,6 @@ while(y<=7){
 //printing using while loop
 let u=1;
 while(u<=10){
-    console.log("Apna College");
+    console.log("hello");
     u++;
 }
